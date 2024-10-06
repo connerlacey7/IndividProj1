@@ -35,7 +35,7 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |10-02-2024|8:00 PM   | IM     |Made sure my data was clean and working     |    90       |
 |10-04-2024|2:00 PM   | IM     |Presented personal project to family        |    30       |
 |10-04-2024|6:00 PM   | TP     |Worked on the react tutorial                |    60       |
-|10-05-2024|4:00 PM   | IM     |Presented personal project to family        |    210      |
+|10-05-2024|4:00 PM   | IM     |worked on fine tuning model                 |    210      |
 |10-05-2024|6:30 PM   | TP     |Worked on the react tutorial                |    60       |
 
 
