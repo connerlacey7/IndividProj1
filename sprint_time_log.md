@@ -26,12 +26,19 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|09-25-2024|8:00 PM   | IM     | Practiced pytorch                          |    90       |
+|09-27-2024|8:00 PM   | IM     | Looked for data to use                     |    90       |
+|09-28-2024|3:00 PM   | TP     | started to get ready Reacat and typescript |    60       |
+|09-30-2024|2:00 PM   | MTG    | Planned more on what needs to be done      |    60       |
+|09-30-2024|8:00 PM   | IM     |Started to plan my model and what I will use|    90       |
+|10-02-2024|2:00 PM   | MTG    |Presented our team Projects                 |    60       |
+|10-02-2024|8:00 PM   | IM     |Made sure my data was clean and working     |    90       |
+|10-04-2024|2:00 PM   | IM     |Presented personal project to family        |    30       |
+|10-04-2024|6:00 PM   | TP     |Worked on the react tutorial                |    60       |
+|10-05-2024|4:00 PM   | IM     |Presented personal project to family        |    210      |
+|10-05-2024|6:30 PM   | TP     |Worked on the react tutorial                |    60       |
+
+
 
 _Note: Add more rows as needed._
 
@@ -39,7 +46,7 @@ _Note: Add more rows as needed._
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |                          |
-|TP - Team Project              |                          |
-|MTG - Class Meetings           |                          |
-|**TOTAL**                      |                          |
+|IM - Individual Module         |    10 hours              |
+|TP - Team Project              |    3 hours               |
+|MTG - Class Meetings           |    2 hours               |
+|**TOTAL**                      |    15 hours              |
